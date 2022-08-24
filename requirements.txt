@@ -1,0 +1,7 @@
+pyperclip==1.8.2 \
+    --hash=sha256:105254a8b04934f0bc84e9c24eb360a591aaf6535c9def5f29d92af107a9bf57
+    # via -r requirements.in
+youtube-dl==2021.12.17 \
+    --hash=sha256:bc59e86c5d15d887ac590454511f08ce2c47698d5a82c27bfe27b5d814bbaed2 \
+    --hash=sha256:f1336d5de68647e0364a47b3c0712578e59ec76f02048ff5c50ef1c69d79cd55
+    # via -r requirements.in
