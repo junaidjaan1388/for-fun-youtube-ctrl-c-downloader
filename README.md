@@ -1,6 +1,5 @@
 # youtube-ctrl-c-downloader
-Pet project I did when I was learning to code back 2017 - 2018.
-
+Just another pet project 
 
 ```shell
 make install-deps
